@@ -11,3 +11,5 @@ This is a repository containing Poppi, a simple Discord bot. She is created usin
     * Spoilerizes the message into a single use gif
 * tw:/TW:
     * Autotagging trigger warnings
+* !curse:
+    * Tracks curse
