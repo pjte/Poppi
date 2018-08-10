@@ -38,7 +38,7 @@ async def on_message(message):
 
     #Random OHNO
     if message.content.startswith('!ohno'):
-        i = randint(1,6)
+        i = randint(1,9)
         img_path = './memes/ohno/' + str(i) + '.jpg'
         with open(img_path, 'rb') as f:
             await client.send_file(message.channel, f)

@@ -1,6 +1,6 @@
 # Poppi the Discord Bot
 
-This is a repository containing Poppi, a simple Discord bot. He is created using the discord.py repository.
+This is a repository containing Poppi, a simple Discord bot. She is created using the discord.py repository.
 
 ### List of current commands
 * !cage
